@@ -118,9 +118,9 @@ XGBoost demonstrated improved prediction accuracy compared to simpler regression
 
 ## 👥 Project Team
 -  Abdulmalik Hawsawi  
--  Mostafa Al-tilmisani ID: 2342648  
--  Abdulhadi Alfadli ID: 2342863 
--  Nasser qahhat ID: 2342511
+-  Mostafa Al-tilmisani 
+-  Abdulhadi Alfadli 
+-  Nasser Qahhat
 
 ---
 
